@@ -79,21 +79,6 @@ Binary_Tree_Visualizer/
 
 ---
 
-## 🧪 Example Input
-
-```
-A,B,C,D,E,null,F
-```
-
-### Visual Tree Structure:
-```
-       A
-     /       B     C
-   / \       D   E     F
-```
-
----
-
 ## 🙌 Contribution
 
 Pull requests and suggestions are welcome! If you find a bug or have ideas for new features (like adding traversal animations or balanced tree options), open an issue or submit a PR.
