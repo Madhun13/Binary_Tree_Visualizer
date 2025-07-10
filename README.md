@@ -81,5 +81,5 @@ Binary_Tree_Visualizer/
 
 ## 🙌 Contribution
 
-Pull requests and suggestions are welcome! If you find a bug or have ideas for new features (like adding traversal animations or balanced tree options), open an issue or submit a PR.
+Pull requests and suggestions are welcome! If you find a bug or have ideas for new features, open an issue or submit a PR.
 
